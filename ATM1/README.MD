@@ -3,7 +3,7 @@
 ## Description
 aswissman's reinterpretation of the RCT2 ATM Machine.
 
-##Preview
+## Preview
 
 ![ATM Object](/ATM1/preview.png)
 
