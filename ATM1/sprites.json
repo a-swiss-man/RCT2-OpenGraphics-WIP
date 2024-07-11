@@ -1,0 +1,37 @@
+[
+    {
+        "path": "sprites/sprite_0.png",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "path": "sprites/sprite_1.png",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "path": "sprites/sprite_2.png",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "path": "sprites/sprite_3.png",
+        "x": -32,
+        "y": -53
+    },
+    {
+        "path": "sprites/sprite_4.png",
+        "x": -31,
+        "y": -40
+    },
+    {
+        "path": "sprites/sprite_5.png",
+        "x": -31,
+        "y": -39
+    },
+    {
+        "path": "sprites/sprite_6.png",
+        "x": -31,
+        "y": -53
+    }
+]
