@@ -3,6 +3,9 @@
 ## Description
 aswissman's reinterpretation of the RCT2 ATM Machine.
 
+## TO DO:
+I still need to update the preview image for all objects. Currently, it's an older version of the ATM that I made. Soon!!
+
 ## Preview
 
 ![ATM Object](/ATM1/preview.png)
