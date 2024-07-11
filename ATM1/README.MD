@@ -4,7 +4,8 @@
 aswissman's reinterpretation of the RCT2 ATM Machine.
 
 ##Preview
-![ATM Object](/preview.png)
+
+![ATM Object](/ATM1/preview.png)
 
 ## Installation
 1. Ensure you have the latest version of OpenRCT2 installed.
